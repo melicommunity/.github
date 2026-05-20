@@ -23,7 +23,7 @@ Before contributing:
 
 If you discover a security vulnerability, please **do not open a public issue**.
 
-Instead, follow the process outlined in `SECURITY.md` or contact the appropriate internal team.
+Instead, follow the process outlined in [SECURITY.md](SECURITY.md) or contact the appropriate internal team.
 
 ---
 
